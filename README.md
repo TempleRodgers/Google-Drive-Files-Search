@@ -8,4 +8,4 @@ By storing the search results in a tab of a spreadsheet and the search string in
 store and filter through the results of a search.
 There's two versions of this:
   1. Search every shared drive I have access to (main branch)
-  2. Search a list of shared drives (
+  2. Search a list of shared drives (search-selected-drives branch)
